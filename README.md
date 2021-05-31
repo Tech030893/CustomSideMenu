@@ -25,3 +25,4 @@ In this application you'll see custom side menu animating on user interaction. A
 
 ## Application Recording
 
+[![Custom-Side-Menu.gif](https://i.postimg.cc/XNPfrTGW/Custom-Side-Menu.gif)](https://postimg.cc/G9k8Ngxg)
